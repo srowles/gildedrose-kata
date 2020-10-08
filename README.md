@@ -14,12 +14,9 @@ we can begin selling a new category of items.
 
 First an introduction to our system:
 
-	- All items have a SellIn value which denotes the number of 
-          days we have to sell the item
-	- All items have a Quality value which denotes how valuable the 
-          item is
-	- At the end of each day our system lowers both values for every 
-          item
+	- All items have a SellIn value which denotes the number of days we have to sell the item
+	- All items have a Quality value which denotes how valuable the item is
+	- At the end of each day our system lowers both values for every item
 
 Pretty simple, right? Well this is where it gets interesting:
 
